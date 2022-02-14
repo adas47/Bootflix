@@ -38,7 +38,7 @@ I struggled a bit with the extra credit, because it took me a while to get a han
 - [ ] (1pt) Run your app on a real device.
 
 
-<img src="http://g.recordit.co/y0eBr2VlL8.gif" width=250><br>
+<img src="http://g.recordit.co/08QbTHCUrF.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
