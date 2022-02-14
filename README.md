@@ -16,7 +16,7 @@ Bootflix is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/raUfq6AYBK.gif" width=250><br>
+<img src="http://g.recordit.co/wWYe653STt.gif" width=250><br>
 
 ### Notes
 I struggled a bit with the extra credit, because it took me a while to get a hang of the all the syntax from the collectionView from the previous example and change it to the new scenario. 
